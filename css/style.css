@@ -1,0 +1,20 @@
+
+body {font-family : 'Josefin Sans', sans-serif; font-size: 19px; background-color: rgb(33, 32, 32); color: aliceblue;}
+
+
+div {background-color: black; color:aliceblue;} 
+div h1 { font-size: 75px; color: #F9004D;}
+div h3 { color: #FFCCFF; font-size: 35px; line-height: 1px;}
+div h4 { line-height: 1px;}
+
+h2:hover { color: #F9004D;}
+h2 {color: #FFCCFF;}
+
+div.cor2 {
+    background-color: rgb(33, 32, 32);
+}
+div.cor1 {
+    text-align:center; 
+}
+
+div.hover:hover {color: #F9004D;}
